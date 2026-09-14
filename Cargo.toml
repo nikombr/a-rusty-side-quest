@@ -1,0 +1,8 @@
+[package]
+name = "a-rusty-side-quest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4"
+rand = "0.9"
